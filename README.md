@@ -1,6 +1,6 @@
 # 🦀 Path to Solana - Rust Exercises
 
-![Ferris, la mascota de Rust](rustacean-flat-gesture.svg)
+![Ferris, la mascota de Rust](assets/rustacean-flat-gesture.svg)
 
 
 🦀 ¡Bienvenida/o a Rust! 🚀
